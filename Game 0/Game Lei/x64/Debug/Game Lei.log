@@ -1,0 +1,7 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+C:\Users\王已萌\source\repos\Game Lei\game.c(83,47): warning C4047: “!=”:“char (*)[11]”与“int”的间接级别不同
+C:\Users\王已萌\source\repos\Game Lei\game.c(89,25): warning C4047: “!=”:“char (*)[11]”与“int”的间接级别不同
+C:\Users\王已萌\source\repos\Game Lei\game.c(155,1): warning C4715: “is_bomb”: 不是所有的控件路径都返回值
+  Game Lei.vcxproj -> C:\Users\王已萌\source\repos\Game Lei\x64\Debug\Game Lei.exe
